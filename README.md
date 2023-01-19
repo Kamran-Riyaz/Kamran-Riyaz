@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamran-Riyaz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+<!-- - 🌱 I’m currently learning MERN Stack --->
 - 💞️ I’m looking to collaborate on Web Development projects
 <!--- - 📫 How to reach me ...
 --->
