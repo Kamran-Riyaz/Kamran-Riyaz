@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kamran Riyaz
 ====================================================================================================================================
 
-Web Developer
+Full Stack Web Developer
 -------------
 
 I've been learning to code for 6 years, I started with Thin BASIC and C, but have really found a passion for full-stack web development.
