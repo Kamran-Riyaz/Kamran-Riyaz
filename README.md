@@ -7,8 +7,9 @@ Full Stack Web Developer
 I've been learning to code for 6 years, I started with Thin BASIC and C, but have really found a passion for full-stack web development.
 
 * 🌍  I'm based in Shopian
+* 🖥️  <a href="https://kamran-riyaz.github.io/about/" target="_blank">My Website</a>
 * ✉️  You can contact me at [kamranriyazw@gmail.com](mailto:kamranriyazw@gmail.com)
-* 🧠  I'm learning Express
+* 🧠  I'm learning EJS
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.twitter.com/kamranriyazw" target="_blank" rel="noreferrer"><img
